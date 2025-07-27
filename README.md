@@ -1,4 +1,4 @@
-# AI Stock Predictions & Analysis
+Stock Price Predictions Model
 
 This project is a Flask web application that provides stock market analysis and price predictions using time-series forecasting and technical indicators. Users can input a stock ticker symbol to generate a detailed HTML report.
 
